@@ -21,9 +21,11 @@ A **Task Management Application** built with **React.js** and **TypeScript**, fe
 To run this project locally, follow these steps:
 
 2️⃣ Install Dependencies
+`
 npm install
-
+`
 3️⃣ Start the Development Server
+`
 npm run dev
-
+`
 The app will be available at http://localhost:5173/.
